@@ -1,6 +1,6 @@
 body{
     background-color: rgb(37, 148, 35);
-color: rgba(50, 47, 0, 0.908);
+color: rgba(0, 0, 0, 0.908);
 font-family: Arial, Helvetica, sans-serif;
 margin: 0;
 } 
@@ -17,6 +17,11 @@ header{
     padding: 0 25px;
  }
 
+ section{
+    font-style: italic;
+    margin: 3;
+ }
+ 
     header h1{
     font-size: 60px;
     margin: 0;

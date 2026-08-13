@@ -15,12 +15,11 @@ header{
  }
 
     header h1{
-    font-size: 60px;
+    font-size: 45px;
     margin: 0;
     color: rgb(164, 152, 21);
 }
 
 header nav a:hover{
     color: #00ff88;
-}
 }
