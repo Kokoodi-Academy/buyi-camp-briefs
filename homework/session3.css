@@ -1,20 +1,36 @@
-head{
-    background-color: gold;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
-}
+body{
+    background-color: rgb(37, 148, 35);
+color: rgba(50, 47, 0, 0.908);
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+} 
 
-/*style for the header section*/
+/* Style for the header section */
+
 header{
-    height: 64px;
-    background-color: #181818;
+    height: 80px;
 
-    display: flex;
-    align-items: center;
+    display:flexbox;
+    align-items:baseline ;
 
     gap: 30px;
     padding: 0 25px;
+ }
+
+    header h1{
+    font-size: 60px;
+    margin: 0;
+    color: rgb(164, 152, 21);
 }
+
+header nav a:hover{
+    color: #00ff88;
+}
+
+
+
+
+
+
 
 
