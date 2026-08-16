@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(86, 197, 252);
+    font-size: 30px;
+}
+
+h1{
+    font-size: 40px;
+    background-color: rgb(155, 0, 244);
+    padding: 20px;
+    margin: 40px;
+}
+
+h2{
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 60px;
+}
