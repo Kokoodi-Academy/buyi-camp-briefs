@@ -1,7 +1,7 @@
 
 body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: rgb(249, 249, 249);
+    background-color: rgb(250, 147, 147);
     font-style: italic;
 }
 
@@ -17,13 +17,13 @@ h1{
 }
 
 h2{
-    background-color: rgb(0, 255, 21);
+    background-color: rgb(245, 241, 4);
     font-size: 40px;
     margin: 40px;
 }
 
 ul{
-    background-color: rgb(36, 253, 90);
+    background-color: rgb(253, 253, 36);
     font-size: 30px;
 }
 
